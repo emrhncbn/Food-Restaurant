@@ -3,7 +3,7 @@ const Main = () => {
     <main>
 
     <h1 className="logo-container">Basit Yemekler Restoranı</h1>
-      <p className="info-container">Basit insanlar için basit yemekler yapıyoruz. Sandviç ister misiniz? Tamamdır. Goralı? Hemen geliyor. Ateşte kavrulmuş kuşkonmaz börekleri ile yerel kaynaklı balla sırlanmış haşlanmış somon yumurtası? Hadi oradan. Caddenin karşısındaki Fantezi Yemek Kafe'yi deneyin.</p>
+      <p className="info-container">Basit insanlar için basit yemekler yapıyoruz. Sandviç ister misiniz? Tamamdır. Goralı? Hemen geliyor. Ateşte kavrulmuş kuşkonmaz  ile yerel kaynaklı balla sırlanmış haşlanmış somon yumurtası? Hadi oradan. Caddenin karşısındaki Fantezi Yemek Kafe'yi deneyin.</p>
       <div class="image-container">
     <div class="image-wrapper">
         <img class="hot-dog" src="images/hotdogs.jpg"/>
